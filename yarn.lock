@@ -215,6 +215,16 @@
     "@ethersproject/properties" "^5.5.0"
     "@ethersproject/strings" "^5.5.0"
 
+"@poohnet/pooh-swap-lib@4.0.1-alpha":
+  version "4.0.1-alpha"
+  resolved "https://registry.yarnpkg.com/@poohnet/pooh-swap-lib/-/pooh-swap-lib-4.0.1-alpha.tgz#53c5ba1ad8c05895b0f2ebbddd2f69f9852ecb8e"
+  integrity sha512-avcq9A9xABjTYZ8ziNhyclmS0/vaYXMFYAyfHM0zX1/PF3TMoDNVIW4Malx7Oc4Ixq/3EHa6m6lyoHgVNvk/Aw==
+
+"@poohnet/pooh-swap-v2-core@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@poohnet/pooh-swap-v2-core/-/pooh-swap-v2-core-1.0.1.tgz#74acbf862837f4b52cbc0be62daf40e84321e1d0"
+  integrity sha512-hEAV8bVj3ufMsvkVhSzmBibbu5TOAfrbX4ChhQi8WEpsudNMlZncsmhfbRV6lNTAuyQXVkQXMRoKBqmR+c7BQA==
+
 "@resolver-engine/core@^0.3.3":
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/@resolver-engine/core/-/core-0.3.3.tgz#590f77d85d45bc7ecc4e06c654f41345db6ca967"
@@ -326,16 +336,6 @@
   integrity sha512-Da66lEIFeIz9ltsdMZcpQvmrmmoqrfju8pm1BH8WbYjZSwUgCwXLb9C+9XYogwBITnbsSaMdVPb2ekf7TV+03w==
   dependencies:
     "@types/node" "*"
-
-"@uniswap/lib@4.0.1-alpha":
-  version "4.0.1-alpha"
-  resolved "https://registry.yarnpkg.com/@uniswap/lib/-/lib-4.0.1-alpha.tgz#2881008e55f075344675b3bca93f020b028fbd02"
-  integrity sha512-f6UIliwBbRsgVLxIaBANF6w09tYqc6Y/qXdsrbEmXHyFA7ILiKrIwRFXe1yOg8M3cksgVsO9N7yuL2DdCGQKBA==
-
-"@uniswap/v2-core@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@uniswap/v2-core/-/v2-core-1.0.0.tgz#e0fab91a7d53e8cafb5326ae4ca18351116b0844"
-  integrity sha512-BJiXrBGnN8mti7saW49MXwxDBRFiWemGetE58q8zgfnPPzQKq55ADltEILqOt6VFZ22kVeVKbF8gVd8aY3l7pA==
 
 "@yarnpkg/lockfile@^1.1.0":
   version "1.1.0"
